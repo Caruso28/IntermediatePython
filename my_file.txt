@@ -1,0 +1,4 @@
+Nombre: Guido
+Apellido: Rimati
+Edad: 37
+Idioma: Python
